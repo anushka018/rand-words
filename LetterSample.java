@@ -1,4 +1,3 @@
-//Name: Anushka Angamuthu, x500:angam003
 /**Class that implements a Letter Sample object which tracks segments of a word and their subsequents
  * characters */
 
