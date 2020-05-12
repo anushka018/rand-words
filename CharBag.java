@@ -1,4 +1,3 @@
-//Name: Anushka Angamuthu, x500:angam003
 /**Class that implements a CharBag data structure which stores multiple, unordered lowercase alphabetic
  * characters*/
 import java.util.Random;
