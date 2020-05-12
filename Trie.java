@@ -1,4 +1,3 @@
-//Name: Anushka Angamuthu, x500:angam003
 /**Class that implements a Trie data structure, a 26-ary Tree for mapping English words*/
 
 public class Trie <T> {
