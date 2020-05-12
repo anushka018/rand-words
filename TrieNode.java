@@ -1,4 +1,3 @@
-//Name: Anushka Angamuthu, x500:angam003
 /**Class that implements a single node of a trie data structure which maps English words*/
 public class TrieNode <T> {
     private T data;
