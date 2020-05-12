@@ -9,3 +9,8 @@ Core steps of the aglorithm:
 2. Move into src
 3. Download the Dictionary text file which will be used to train a sample
 4. Run the GibberisherMain
+5. In the main method edit the segment length, the number of words to generate, and the sample size of words to display
+# Expected output
+The larger the segment size, the closer the random words are to being pronouncable 
+As the segment size becomes very large, a majority of the words generated should be actual English words
+For a small segment size the words should seem almost random and for a segment size of 1, a random character should be generated
