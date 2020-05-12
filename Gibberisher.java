@@ -1,4 +1,3 @@
-//Name: Anushka Angamuthu, x500:angam003
 /**Class that implements a Gibberisher object which generates random words*/
 
 public class Gibberisher {
